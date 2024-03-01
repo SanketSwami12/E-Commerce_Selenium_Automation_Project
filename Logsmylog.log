@@ -1,0 +1,124 @@
+[INFO ] 2024-01-23 11:15:16,470 2024-01-23 11:15:16.470 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-23 11:15:18,074 2024-01-23 11:15:18.074 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-23 11:15:18,130 2024-01-23 11:15:18.130 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-23 11:15:18,158 2024-01-23 11:15:18.158 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-23 11:15:18,842 2024-01-23 11:15:18.842 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-23 11:15:18,874 2024-01-23 11:15:18.874 [main] E-commerce_MyShop - VerifyLogin - Passed
+[INFO ] 2024-01-23 11:15:20,117 2024-01-23 11:15:20.117 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-23 11:15:20,147 2024-01-23 11:15:20.147 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-23 11:15:20,173 2024-01-23 11:15:20.173 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-23 11:15:20,715 2024-01-23 11:15:20.715 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-23 11:15:20,732 2024-01-23 11:15:20.732 [main] E-commerce_MyShop - VerifyLogin - Failed
+[INFO ] 2024-01-23 11:16:40,485 2024-01-23 11:16:40.485 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-23 11:16:42,100 2024-01-23 11:16:42.100 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-23 11:16:42,163 2024-01-23 11:16:42.163 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-23 11:16:42,196 2024-01-23 11:16:42.196 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-23 11:16:42,941 2024-01-23 11:16:42.941 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-23 11:16:42,965 2024-01-23 11:16:42.965 [main] E-commerce_MyShop - VerifyLogin - Passed
+[INFO ] 2024-01-23 11:16:44,327 2024-01-23 11:16:44.327 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-23 11:16:44,359 2024-01-23 11:16:44.359 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-23 11:16:44,390 2024-01-23 11:16:44.390 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-23 11:16:44,982 2024-01-23 11:16:44.982 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-23 11:16:45,002 2024-01-23 11:16:45.002 [main] E-commerce_MyShop - VerifyLogin - Passed
+[INFO ] 2024-01-29 14:13:33,623 2024-01-29 14:13:33.623 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-29 14:13:35,695 2024-01-29 14:13:35.695 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-29 14:13:35,749 2024-01-29 14:13:35.749 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-29 14:13:35,771 2024-01-29 14:13:35.771 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-29 14:13:36,491 2024-01-29 14:13:36.491 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-29 14:13:36,512 2024-01-29 14:13:36.512 [main] E-commerce_MyShop - VerifyLogin - Passed
+[INFO ] 2024-01-29 14:13:37,782 2024-01-29 14:13:37.782 [main] E-commerce_MyShop - Click on SignIn Btn
+[INFO ] 2024-01-29 14:13:37,824 2024-01-29 14:13:37.824 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-29 14:13:37,846 2024-01-29 14:13:37.846 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-29 14:13:38,382 2024-01-29 14:13:38.382 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-29 14:13:38,405 2024-01-29 14:13:38.405 [main] E-commerce_MyShop - VerifyLogin - Passed
+[INFO ] 2024-01-31 15:55:09,966 2024-01-31 15:55:09.966 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-31 15:55:10,008 2024-01-31 15:55:10.008 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-01-31 15:55:11,106 2024-01-31 15:55:11.106 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-31 15:55:11,186 2024-01-31 15:55:11.186 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-31 15:55:12,025 2024-01-31 15:55:12.025 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-31 16:17:16,873 2024-01-31 16:17:16.873 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-31 16:17:16,893 2024-01-31 16:17:16.893 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-01-31 16:17:17,733 2024-01-31 16:17:17.733 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-31 16:17:17,759 2024-01-31 16:17:17.759 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-31 16:17:18,506 2024-01-31 16:17:18.506 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-31 16:18:58,053 2024-01-31 16:18:58.053 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-31 16:18:58,070 2024-01-31 16:18:58.070 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-01-31 16:18:58,972 2024-01-31 16:18:58.972 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-31 16:18:58,997 2024-01-31 16:18:58.997 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-31 16:18:59,667 2024-01-31 16:18:59.667 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-31 16:18:59,696 2024-01-31 16:18:59.696 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-01-31 16:19:00,425 2024-01-31 16:19:00.425 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-01-31 16:28:39,324 2024-01-31 16:28:39.324 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-01-31 16:28:39,347 2024-01-31 16:28:39.347 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-01-31 16:28:40,178 2024-01-31 16:28:40.178 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-01-31 16:28:40,204 2024-01-31 16:28:40.204 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-01-31 16:28:40,929 2024-01-31 16:28:40.929 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-01-31 16:28:40,959 2024-01-31 16:28:40.959 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-01-31 16:28:41,661 2024-01-31 16:28:41.661 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-01-31 16:28:41,693 2024-01-31 16:28:41.693 [main] E-commerce_MyShop - Search Product Test Case Is Successfully Passed
+[INFO ] 2024-02-01 13:39:53,517 2024-02-01 13:39:53.517 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 13:39:53,569 2024-02-01 13:39:53.569 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:39:53,574 2024-02-01 13:39:53.574 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:42:02,412 2024-02-01 13:42:02.412 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 13:42:02,439 2024-02-01 13:42:02.439 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:42:03,304 2024-02-01 13:42:03.304 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-01 13:42:03,341 2024-02-01 13:42:03.341 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-01 13:42:04,152 2024-02-01 13:42:04.152 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-01 13:42:04,182 2024-02-01 13:42:04.182 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-01 13:42:04,878 2024-02-01 13:42:04.878 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-01 13:42:04,889 2024-02-01 13:42:04.889 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:44:47,568 2024-02-01 13:44:47.568 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 13:44:47,588 2024-02-01 13:44:47.588 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:44:48,477 2024-02-01 13:44:48.477 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-01 13:44:48,501 2024-02-01 13:44:48.501 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-01 13:44:49,232 2024-02-01 13:44:49.232 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-01 13:44:49,262 2024-02-01 13:44:49.262 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-01 13:44:49,973 2024-02-01 13:44:49.973 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-01 13:45:19,090 2024-02-01 13:45:19.090 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 13:45:19,108 2024-02-01 13:45:19.108 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:45:19,947 2024-02-01 13:45:19.947 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-01 13:45:20,022 2024-02-01 13:45:20.022 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-01 13:45:20,766 2024-02-01 13:45:20.766 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-01 13:45:20,806 2024-02-01 13:45:20.806 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-01 13:45:21,484 2024-02-01 13:45:21.484 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-01 13:45:21,491 2024-02-01 13:45:21.491 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:49:06,094 2024-02-01 13:49:06.094 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 13:49:06,112 2024-02-01 13:49:06.112 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 13:49:07,135 2024-02-01 13:49:07.135 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-01 13:49:07,162 2024-02-01 13:49:07.162 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-01 13:49:07,929 2024-02-01 13:49:07.929 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-01 13:49:07,963 2024-02-01 13:49:07.963 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-01 13:49:08,619 2024-02-01 13:49:08.619 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-01 13:49:08,627 2024-02-01 13:49:08.627 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 20:20:00,044 2024-02-01 20:20:00.044 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-01 20:20:00,107 2024-02-01 20:20:00.107 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-01 20:20:01,212 2024-02-01 20:20:01.212 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-01 20:20:01,291 2024-02-01 20:20:01.291 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-01 20:20:02,139 2024-02-01 20:20:02.139 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-01 20:20:02,199 2024-02-01 20:20:02.199 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-01 20:20:02,996 2024-02-01 20:20:02.996 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-01 20:20:02,996 2024-02-01 20:20:02.996 [main] E-commerce_MyShop - Test case is Finished
+[INFO ] 2024-02-05 10:37:52,319 2024-02-05 10:37:52.319 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-05 10:37:52,340 2024-02-05 10:37:52.340 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-05 10:37:53,597 2024-02-05 10:37:53.597 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-05 10:37:53,651 2024-02-05 10:37:53.651 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-05 10:37:54,801 2024-02-05 10:37:54.801 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-05 10:37:54,836 2024-02-05 10:37:54.836 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-05 10:37:56,743 2024-02-05 10:37:56.743 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-05 10:37:56,743 2024-02-05 10:37:56.743 [main] E-commerce_MyShop - Test case is Finished
+[INFO ] 2024-02-05 10:38:53,467 2024-02-05 10:38:53.467 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-05 10:38:53,490 2024-02-05 10:38:53.490 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-05 10:38:54,779 2024-02-05 10:38:54.779 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-05 10:38:54,812 2024-02-05 10:38:54.812 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-05 10:38:55,633 2024-02-05 10:38:55.633 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-05 10:38:55,669 2024-02-05 10:38:55.669 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-05 10:38:56,580 2024-02-05 10:38:56.580 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-05 10:38:56,581 2024-02-05 10:38:56.581 [main] E-commerce_MyShop - Test case is Finished
+[INFO ] 2024-02-05 10:44:40,319 2024-02-05 10:44:40.319 [main] E-commerce_MyShop - URL is Opened
+[INFO ] 2024-02-05 10:44:40,336 2024-02-05 10:44:40.336 [main] E-commerce_MyShop - **********************TestCase Search Product Started*********************************
+[INFO ] 2024-02-05 10:44:41,547 2024-02-05 10:44:41.547 [main] E-commerce_MyShop - Email is Entered
+[INFO ] 2024-02-05 10:44:41,571 2024-02-05 10:44:41.571 [main] E-commerce_MyShop - Password is Entered
+[INFO ] 2024-02-05 10:44:42,374 2024-02-05 10:44:42.374 [main] E-commerce_MyShop - Clicked on SignIn Btn
+[INFO ] 2024-02-05 10:44:42,407 2024-02-05 10:44:42.407 [main] E-commerce_MyShop - Entered Product Name
+[INFO ] 2024-02-05 10:44:44,272 2024-02-05 10:44:44.272 [main] E-commerce_MyShop - Clicked on serach btn
+[INFO ] 2024-02-05 10:44:44,294 2024-02-05 10:44:44.294 [main] E-commerce_MyShop - Search Product Test Case Is Successfully Passed
